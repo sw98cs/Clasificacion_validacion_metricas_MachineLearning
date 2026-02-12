@@ -1,0 +1,2 @@
+# Clasificacion_validacion_metricas_MachineLearning
+Ejercicio del curso Alura Latam
